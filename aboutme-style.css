@@ -1,0 +1,27 @@
+body{
+	background-color:#909090;
+}
+h2{
+	color:#991122;
+	font-family:Arial;
+	font-size:1.2em;
+	font-weight:bold;
+	text-align:left;
+}
+h1{
+	font-family:Trebuchet MS;
+}
+a:hover{
+	text-decoration:underline;
+}
+a{
+	text-decoration: none;
+}
+p{
+	text-align:justify;
+	font-family: Arial;
+
+}
+ol>li>a{
+	font-style: italic;
+}
